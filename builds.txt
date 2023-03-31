@@ -1,6 +1,6 @@
 id="plugin.program.openwizard"
 version="1.0.0"
-zip="url.to.zip"
+zip="http://192.168.1.27:8080/files/plugin.program.openwizard-2.0.7.zip"
 
 name="SKodi"
 version="1.0"

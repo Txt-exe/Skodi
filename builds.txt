@@ -1,6 +1,6 @@
 id="plugin.program.openwizard"
 version="1.0.0"
-zip="https://txt-exe.github.io/team.skodi.io/simplebuild.zip"
+zip="https://txt-exe.github.io/team.skodi.io/plugin.program.openwizard.zip"
 
 name="SKodi"
 version="1.0"

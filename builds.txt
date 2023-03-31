@@ -1,10 +1,10 @@
 id="plugin.program.openwizard"
 version="1.0.0"
-zip="http://192.168.1.27:8080/files/plugin.program.openwizard-2.0.7.zip"
+zip="url.to.zip"
 
 name="SKodi"
 version="1.0"
-url="http://192.168.1.27:8080/files/simplebuild.zip"
+url="https://github.com/Txt-exe/team.skodi.io/releases/download/bi/simplebuild.zip"
 minor="http://"
 gui=""
 kodi="20.1"

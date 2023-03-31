@@ -4,7 +4,7 @@ zip="url.to.zip"
 
 name="SKodi"
 version="1.0"
-url="https://github.com/Txt-exe/team.skodi.io/releases/download/bi/simplebuild.zip"
+url="https://www.dropbox.com/s/9jf27vbpuo8lftb/simplebuild.zip?dl=1"
 minor="http://"
 gui=""
 kodi="20.1"

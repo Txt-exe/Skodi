@@ -1,8 +1,8 @@
 id="plugin.program.aftermath"
 version="0.4.5"
-zip="https://txt-exe.github.io/team.skodi.io/plugin.program.openwizard.zip"
+zip=""
 
-name="sKodi"
+name="DKodi"
 version="1.0"
 url="https://txt-exe.github.io/team.skodi.io/simplebuild.zip"
 minor="http://"

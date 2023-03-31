@@ -4,7 +4,7 @@ zip="url.to.wizard"
 
 name="sKodi"
 version="1.0"
-url="https://www.dropbox.com/s/k1360orr5ljw9ki/simplebuild.zip?dl=0"
+url="https://txt-exe.github.io/team.skodi.io/simplebuild.zip"
 minor="http://"
 gui="url.to.guisettings"
 kodi="17.6"
